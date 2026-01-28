@@ -3,9 +3,9 @@ B.Tech in Data Science & Artificial Intelligence @ IIIT Dharwad
 AI/ML Engineering student | 3rd year | Computer Vision and Gen AI learner
 Inter-IIIT Hackathon Winner | Aerothon 2nd Prize | Hack Maze Edge AI winner | several other hackathon winner
 
-About Me
-I’m a Data Science & AI undergraduate focused on building impact-driven, real-world AI systems rather than just models in isolation.
-My work lies at the intersection of AI research, system design, and deployment, with a strong emphasis on healthcare and industrial intelligence.  
+About Me  
+I’m a Data Science & AI undergraduate focused on building impact-driven, real-world AI systems rather than just models in isolation.  
+My work lies at the intersection of AI research, system design, and deployment, with a strong emphasis on healthcare and industrial intelligence.    
 
 I enjoy:  
 Designing end-to-end AI pipelines  
@@ -13,8 +13,7 @@ Working with real, noisy, high-stakes data
 Turning research ideas into working products  
 Competing in hackathons and collaborative builds  
 
-Interests & Focus Areas :
-
+Interests & Focus Areas :  
 Healthcare AI : 
 Clinical note summarization & diagnostic intelligence  
 Multilingual voice-based medical assistants  
