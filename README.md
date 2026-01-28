@@ -20,7 +20,7 @@ Multilingual voice-based medical assistants
 Medical image analysis (Ultrasound, reports, masks)  
 Patient monitoring using time-series health data (CBC, vitals)  
 
-Computer Vision :  
+Computer Vision :    
 Visual anomaly detection (PatchCore, DRAEM, GMM)  
 Industrial defect, missing-part & size detection  
 Video-based anomaly detection pipelines  
@@ -32,7 +32,7 @@ Retrieval-Augmented Generation (RAG)
 Classical ML vs Quantum ML (QCNN vs CNN)  
 Model evaluation, explainability & performance comparison  
 
-Applied AI for Social & Environmental Impact  
+Applied AI for Social & Environmental Impact :   
 Industrial pollution monitoring  
 Carbon credit tracking using IoT + Blockchain  
 Fake news & manipulative speech detection  
