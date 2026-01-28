@@ -7,7 +7,7 @@ About Me
 I’m a Data Science & AI undergraduate focused on building impact-driven, real-world AI systems rather than just models in isolation.
 My work lies at the intersection of AI research, system design, and deployment, with a strong emphasis on healthcare and industrial intelligence.  
 
-I enjoy:
+I enjoy:  
 Designing end-to-end AI pipelines  
 Working with real, noisy, high-stakes data
 Turning research ideas into working products
