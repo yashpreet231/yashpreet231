@@ -8,7 +8,6 @@ I’m a Data Science & AI undergraduate focused on building impact-driven, real-
 My work lies at the intersection of AI research, system design, and deployment, with a strong emphasis on healthcare and industrial intelligence.  
 
 I enjoy:
-
 Designing end-to-end AI pipelines  
 Working with real, noisy, high-stakes data
 Turning research ideas into working products
@@ -16,14 +15,12 @@ Competing in hackathons and collaborative builds
 Interests & Focus Areas :
 
 Healthcare AI : 
-
 Clinical note summarization & diagnostic intelligence
 Multilingual voice-based medical assistants
 Medical image analysis (Ultrasound, reports, masks)
 Patient monitoring using time-series health data (CBC, vitals)
 
 Computer Vision :
-
 Visual anomaly detection (PatchCore, DRAEM, GMM)
 Industrial defect, missing-part & size detection
 Video-based anomaly detection pipelines
