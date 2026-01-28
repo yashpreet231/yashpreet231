@@ -9,7 +9,7 @@ My work lies at the intersection of AI research, system design, and deployment, 
 
 I enjoy:  
 Designing end-to-end AI pipelines  
-Working with real, noisy, high-stakes data
+Working with real, noisy, high-stakes data  
 Turning research ideas into working products
 Competing in hackathons and collaborative builds
 Interests & Focus Areas :
