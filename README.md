@@ -5,24 +5,24 @@ Inter-IIIT Hackathon Winner | Aerothon 2nd Prize | Hack Maze Edge AI winner | se
 
 About Me
 I’m a Data Science & AI undergraduate focused on building impact-driven, real-world AI systems rather than just models in isolation.
-My work lies at the intersection of AI research, system design, and deployment, with a strong emphasis on healthcare and industrial intelligence.
+My work lies at the intersection of AI research, system design, and deployment, with a strong emphasis on healthcare and industrial intelligence.  
 I enjoy:
-Designing end-to-end AI pipelines
+Designing end-to-end AI pipelines  
 Working with real, noisy, high-stakes data
 Turning research ideas into working products
 Competing in hackathons and collaborative builds
-Interests & Focus Areas
-Healthcare AI
+Interests & Focus Areas  
+Healthcare AI  
 Clinical note summarization & diagnostic intelligence
 Multilingual voice-based medical assistants
 Medical image analysis (Ultrasound, reports, masks)
 Patient monitoring using time-series health data (CBC, vitals)
-Computer Vision
+Computer Vision  
 Visual anomaly detection (PatchCore, DRAEM, GMM)
 Industrial defect, missing-part & size detection
 Video-based anomaly detection pipelines
-Medical imaging & satellite imagery analysis
-Machine Learning & Deep Learning
+Medical imaging & satellite imagery analysis  
+Machine Learning & Deep Learning  
 CNNs, Transformers, BERT-based models
 Retrieval-Augmented Generation (RAG)
 Classical ML vs Quantum ML (QCNN vs CNN)
