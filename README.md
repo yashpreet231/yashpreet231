@@ -26,7 +26,7 @@ Industrial defect, missing-part & size detection
 Video-based anomaly detection pipelines  
 Medical imaging & satellite imagery analysis    
 
-Machine Learning & Deep Learning : 
+Machine Learning & Deep Learning:  
 CNNs, Transformers, BERT-based models  
 Retrieval-Augmented Generation (RAG)  
 Classical ML vs Quantum ML (QCNN vs CNN)  
