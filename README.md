@@ -1,6 +1,6 @@
 Hi, I’m Yashpreet Singh
 B.Tech in Data Science & Artificial Intelligence @ IIIT Dharwad
-AI/ML Engineering student | 3rd year | Computer Vision and Gen AI learner
+AI/ML Engineering student | 3rd year | Computer Vision and Gen AI learner  
 Inter-IIIT Hackathon Winner | Aerothon 2nd Prize | Hack Maze Edge AI winner | several other hackathon winner
 
 About Me  
